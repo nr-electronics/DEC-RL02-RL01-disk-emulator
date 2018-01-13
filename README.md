@@ -31,6 +31,9 @@ Implementation
 The RL emulator is running on a MAX10/DE10-Lite , BeMicro CV , DE0-Nano and (on demand) on a DE1 board.
 The necessary PCB board was developed in cooperation with the computermuseum muenchen. 
 Additional Information on my homepage. Contact: RLEMU@cm-muenchen.de
+The up and running projects are based on QUARTUS Version 16.1 :
+MAX10_RL_Emulator, BeMicro_RL_EMULATOR_V5 and DE0_RL_EMULATOR_V5
+
 
 
 

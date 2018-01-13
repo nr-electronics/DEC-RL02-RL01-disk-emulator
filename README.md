@@ -9,6 +9,7 @@ Aim of this project: Being able to use the RL02/RL01 Emulator on all DEC vintage
 
 
 Overview and architecture:
+
 Basically, the design of my DEC RL02/RL01 disk drive emulator works like a Solid-State-Disk(SSD),
 interfacing the DEC RL-disk serial bus signals (1980) to the current FPGA technology. 
 The heart of my design is a DPR ( Dual Ported RAM ) which can hold one RL-track.

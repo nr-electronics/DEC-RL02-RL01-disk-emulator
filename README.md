@@ -42,7 +42,7 @@ ported to the ARM Cortex-A9 CPU environment. Currently the entire firmware is su
 a NIOS-II CPU is running from the onchip memory using the I/O with the PCB board (AUG 2017). I have 
 already made many attempts to sync the NIOS CPU with the Cortex-A9 CPU, but so far without success. 
 At least, I have little experience with the ARM DS-5 v5.26.0 Developer and run always into new problems.
-Maybe I am too old? And maybe someone wants to complete this project ??
+I am running out of time, maybe I am too old :-) Maybe someone wants to complete this project ??
 
 
 

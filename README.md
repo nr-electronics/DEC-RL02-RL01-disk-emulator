@@ -35,6 +35,15 @@ SD-Card, FAT32 support is provided by : http://elm-chan.org/fsw/ff/00index_e.htm
 
 
 Open issues:                                                                                                        
+DE0-Nano-SoC Board Implementation: NOT yet runable ! It is the ideal board because it can also be used 
+for other purposes such as PDP-11 and PDP-8 emulators. However, a lot of issues must be new developed. 
+A NIOS II CPU with the existing C-code is very difficult to implement here, so most of all has to be 
+ported to the ARM Cortex-A9 CPU environment. Currently the entire firmware is successfully ported and
+a NIOS-II CPU is running from the onchip memory using the I/O with the PCB board (AUG 2017). I have 
+already made many attempts to sync the NIOS CPU with the Cortex-A9 CPU, but so far without success. 
+At least, I have little experience with the ARM DS-5 v5.26.0 Developer and run always into new problems.
+Maybe I am too old? And maybe someone wants to complete this project ??
+
 
 
 

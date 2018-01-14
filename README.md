@@ -30,7 +30,14 @@ The necessary PCB board was developed in cooperation with the computermuseum mue
 Additional Information on my homepage. Contact: RLEMU@cm-muenchen.de
 
 The up and running projects are based on QUARTUS Version 16.1 :                                                          
-MAX10_RL_Emulator, BeMicro_RL_EMULATOR_V5 and DE0_RL_EMULATOR_V5
+MAX10_RL_Emulator,  BeMicro_RL_EMULATOR_V5  and  DE0_RL_EMULATOR_V5                                                           
+SD-Card, FAT32 support is provided by : http://elm-chan.org/fsw/ff/00index_e.html + http://www.emb4fun.de/   
+
+
+Open issues:                                                                                                        
+
+
+
 
 
 

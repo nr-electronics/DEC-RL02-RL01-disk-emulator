@@ -3,13 +3,13 @@
 
 Secure the vintage software and preserve it on new technology                                                                 
 
-Aim of this project:                                                                                                                                                                                                   
+**Aim of this project:**                                                                                                                                                                                                   
 Being able to use the RL02/RL01 Emulator on all DEC vintage computer platforms.
 
 
 
 
-Overview and architecture:                                                                                                   
+**Overview and architecture:**                                                                                                   
 Basically, the design of my DEC RL02/RL01 disk drive emulator works like a Solid-State-Disk(SSD),
 interfacing the DEC RL-disk serial bus signals (1980) to the current FPGA technology. 
 The heart of my design is a DPR ( Dual Ported RAM ) which can hold one RL-track.
@@ -52,7 +52,7 @@ I am running out of time, certain events have changed my life, maybe I am too ol
 Maybe someone wants to complete this project ??
 
 
-<span class="cm-header cm-header-1">#TEST</span>
+
 
 
 

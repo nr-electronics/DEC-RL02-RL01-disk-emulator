@@ -1,7 +1,7 @@
 # DEC RL02/RL01-disk emulator
                            FPGA based disk emulator for the DEC RL01 and RL02 disk drives                                   
 
-**       Secure the vintage software and preserve it on new technology**                                                                 
+**Secure the vintage software and preserve it on new technology**                                                                 
 
 **Aim of this project:**                                                                                                                                                                                                   
 Being able to use the RL02/RL01 Emulator on all DEC vintage computer platforms.

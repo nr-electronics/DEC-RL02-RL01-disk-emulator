@@ -29,9 +29,15 @@ The necessary PCB board was developed in cooperation with the computermuseum mue
 Additional Information on my homepage. Contact: RLEMU@cm-muenchen.de
 
 The up and running projects are based on QUARTUS Version 16.1 :                                                          
-MAX10_RL_Emulator,  BeMicro_RL_EMULATOR_V5  and  DE0_RL_EMULATOR_V5                                                           
+MAX10_RL_Emulator V1.5,  BeMicro_RL_EMULATOR_V5  and  DE0_RL_EMULATOR_V5                                                           
 SD-Card, FAT32 support is provided by : http://elm-chan.org/fsw/ff/00index_e.html + http://www.emb4fun.de/   
-
+Data format:                                                                                                            
+The DEC RL01/RL02 disk drive did have a capacity of 5.2MB/10.4MB, 2 Heads(surfaces), 256/512 cylinder, 
+40 sectors/track. 1 sector contains 128 16-bit words ( 256 Byte ) of Data + 12 16-Bit words for 
+Servo/Header/CRC Data = 140 words(280 Byte)/sector. The emulater is using the .DEC format which contains 
+all the information plus a serial number and the bad sector file. The sice of the .DEC file for the
+RL02 is 11.521 KB and for the RL01 5.761 KB. Another disk format is the disk image structure .IMG which 
+is often used for the emulators. To convert this data, the necessary programs are available on my homepage.
 
 Open issues:                                                                                                        
 DE0-Nano-SoC Board Implementation: NOT yet runable ! It is the ideal board because it can also be used 

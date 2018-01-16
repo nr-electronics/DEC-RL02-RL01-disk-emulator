@@ -37,7 +37,7 @@ The DEC RL01/RL02 disk drive did have a capacity of 5.2MB/10.4MB, 2 Heads(surfac
 Servo/Header/CRC Data = 140 words(280 Byte)/sector. The emulater is using the .DEC format which contains 
 all the information plus a serial number and the bad sector file. The size of the .DEC file for the
 RL02 is 11.521 KB and for the RL01 5.761 KB. Another disk format is the disk image structure .IMG which 
-is often used for the emulators. To convert this data, the necessary programs are available on my homepage
+is often used for CPU emulators. To convert this data, the necessary programs are available on my homepage
 or direct by: www.2jo.de/pdp11/rlutils/rlutils.zip  ( written/converted to windows by a friend )
 
 Open issues:                                                                                                        
@@ -48,7 +48,8 @@ ported to the ARM Cortex-A9 CPU environment. Currently the entire firmware is su
 a NIOS-II CPU is running from the onchip memory using the I/O with the PCB board (AUG 2017). I have 
 already made many attempts to sync the NIOS CPU with the Cortex-A9 CPU, but so far without success. 
 At least, I have little experience with the ARM DS-5 v5.26.0 Developer and run always into new problems.
-I am running out of time, maybe I am too old :-) Maybe someone wants to complete this project ??
+I am running out of time, certain events have changed my life, maybe I am too old :-) 
+Maybe someone wants to complete this project ??
 
 
 <span class="cm-header cm-header-1">#TEST</span>

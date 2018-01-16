@@ -23,7 +23,7 @@ The operation of the RL02/RL01 emulator is best viewed with a VIDEO via YouTube,
 in the first version, based on the DE1-Board. https://www.youtube.com/watch?v=0i3ypBU39as                              
 
 
-Implementation ( see also www.pdp11gy.com ) :                                                                              
+**Implementation** ( see also www.pdp11gy.com ) :                                                                              
 The RL emulator is running on a MAX10/DE10-Lite , BeMicro CV , DE0-Nano and (on demand) on a DE1 board.
 The necessary PCB board was developed in cooperation with the computermuseum muenchen. 
 Additional Information on my homepage. Contact: RLEMU@cm-muenchen.de
@@ -40,7 +40,7 @@ RL02 is 11.521 KB and for the RL01 5.761 KB. Another disk format is the disk ima
 is often used for CPU emulators. To convert this data, the necessary programs are available on my homepage
 or direct by: www.2jo.de/pdp11/rlutils/rlutils.zip  ( written/converted to windows by a friend )
 
-Open issues:                                                                                                        
+**Open issues:**                                                                                                        
 DE0-Nano-SoC Board Implementation: NOT yet runable ! It is the ideal board because it can also be used 
 for other purposes such as PDP-11 and PDP-8 emulators. However, a lot of issues must be new developed. 
 A NIOS II CPU with the existing C-code is very difficult to implement here, so most of all has to be 

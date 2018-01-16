@@ -37,8 +37,8 @@ The DEC RL01/RL02 disk drive did have a capacity of 5.2MB/10.4MB, 2 Heads(surfac
 Servo/Header/CRC Data = 140 words(280 Byte)/sector. The emulater is using the .DEC format which contains 
 all the information plus a serial number and the bad sector file. The size of the .DEC file for the
 RL02 is 11.521 KB and for the RL01 5.761 KB. Another disk format is the disk image structure .IMG which 
-is often used for the emulators. To convert this data, the necessary programs are available on my homepage:
-www.2jo.de/pdp11/rlutils/rlutils.zip  ( written/converted to windows by a friend )
+is often used for the emulators. To convert this data, the necessary programs are available on my homepage
+or direct by: www.2jo.de/pdp11/rlutils/rlutils.zip  ( written/converted to windows by a friend )
 
 Open issues:                                                                                                        
 DE0-Nano-SoC Board Implementation: NOT yet runable ! It is the ideal board because it can also be used 

@@ -13,10 +13,10 @@ Being able to use the RL02/RL01 Emulator on all DEC vintage computer platforms.
 Project Start was in 2009. In the initial phase, a PIC processor and shortly afterwards an ARM SBC 
 was used. This idea quickly turned out to be unrealizable and I walked step by step into the FPGA world.
 First, I had worked on the MAX-2 CPLD. The realization failed due to the non-existent onchip-memory.
-Then the DE1 board was used with the CYCLON 2 FPGA. The RL01 emulator in the first version was  
-completed in 2012 (see video). Then, the next versions were realized with the DE0-Nano, BeMicro CV 
-board and it was now possible to emulate up to 4 RL02 disk drives simultaneously. Unfortunately, 
-the BeMicro CV board is no longer available until now ( JAN 2017), to bad and it was a big setback. 
+Then the DE1 board was used with the CYCLON 2 FPGA. The RL01 emulator in the first version was completed in 
+2012 (see video). Then, the next versions were realized with the DE0-Nano, BeMicro CV  board and it was now 
+possible to emulate up to 4 RL02 disk drives simultaneously. Unfortunately, the BeMicro CV board is no longer 
+available until now ( JAN 2017), to bad and it was a big setback.                                         
 The current version has been ported to the DE10-Lite board and many new options have been developed, 
 such as basics of WLAN support. All details in DE10_UserManuel_V15.pdf. 
 

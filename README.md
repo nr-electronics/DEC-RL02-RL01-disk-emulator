@@ -8,6 +8,7 @@ Being able to use the RL02/RL01 Emulator on all DEC vintage computer platforms.
 
 
 
+
 **Overview:**                                                                                                                 
 Project Start was in 2009. In the initial phase, a PIC processor and shortly afterwards an ARM SBC 
 was used. This idea quickly turned out to be unrealizable and I walked step by step into the FPGA world.
@@ -42,8 +43,8 @@ The up and running projects are based on QUARTUS Version 16.1 :
 MAX10_RL_Emulator V1.5,  BeMicro_RL_EMULATOR_V5  and  DE0_RL_EMULATOR_V5                                                           
 After extracting the zip files, the complete development environment for QUARTUS version V16.1 is 
 available. The respective project is available with all the sources and correctly Quartus-setup. 
-The C programs for eclipse-nios2 can be found in the folder software.                                                      
-SD-Card, FAT32 support is provided by : http://elm-chan.org/fsw/ff/00index_e.html + http://www.emb4fun.de/   
+The C programs for eclipse-nios2 can be found in the folder software.  SD-Card, FAT32 support is                               
+provided by : http://elm-chan.org/fsw/ff/00index_e.html + http://www.emb4fun.de/                                              
 Data format:                                                                                                            
 The DEC RL01/RL02 disk drive did have a capacity of 5.2MB/10.4MB, 2 Heads(surfaces), 256/512 cylinder, 
 40 sectors/track. 1 sector contains 128 16-bit words (256 Byte) of Data + 12 16-Bit words for 

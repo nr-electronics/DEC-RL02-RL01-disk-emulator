@@ -43,7 +43,7 @@ The up and running projects are based on QUARTUS Version 16.1 :
 MAX10_RL_Emulator V1.5,  BeMicro_RL_EMULATOR_V5  and  DE0_RL_EMULATOR_V5                                                           
 After extracting the zip files, the complete development environment for QUARTUS version V16.1 is 
 available. The respective project is available with all the sources and correctly Quartus-setup. 
-The C programs for eclipse-nios2 can be found in the folder software.                                              
+The C programs for eclipse-nios2 can be found in the folder software.                                                                                                 
 SD-Card, FAT32 support is provided by : http://elm-chan.org/fsw/ff/00index_e.html + http://www.emb4fun.de/              
 
 Data format:                                                                                                            

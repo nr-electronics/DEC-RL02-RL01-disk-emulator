@@ -37,7 +37,7 @@ in the first version from **2012**, based on the DE1-Board. https://www.youtube.
 
 **Implementation** ( see also www.pdp11gy.com ) :                                                                              
 The RL emulator is running on a **MAX10/DE10-Lite** , BeMicro CV , DE0-Nano and (on demand) on a DE1 board.
-The necessary PCB board was developed in cooperation with the computermuseum muenchen. 
+The necessary PCB board was developed in cooperation with the http://www.computermuseum-muenchen.de. 
 Additional Information on my homepage. Contact: RLEMU@cm-muenchen.de
 The up and running projects are based on QUARTUS Version 16.1 :                                                          
 **MAX10_RL_Emulator V1.5**,  BeMicro_RL_EMULATOR_V5  and  DE0_RL_EMULATOR_V5                                                           
@@ -51,7 +51,7 @@ The DEC RL01/RL02 disk drive did have a capacity of 5.2MB/10.4MB, 2 Heads(surfac
 40 sectors/track. 1 sector contains 128 16-bit words (256 Byte) of Data + 12 16-Bit words for 
 Servo/Header/CRC Data = 140 words(280 Byte)/sector. The emulater is using the .DEC format which contains 
 all the information plus a serial number and the bad sector file. The size of the .DEC file for the
-RL02 is 11.521 KB and for the RL01 5.761 KB. Another disk format is the disk image structure .IMG which 
+RL02 is 11.521 KB and for the RL01 5.761 KB. Another disk format is the disk image structure .DSK which 
 is often used for CPU emulators. To convert this data, the necessary programs are available on my homepage
 or direct by: www.2jo.de/pdp11/rlutils/rlutils.zip  ( written/converted to windows by a friend )
 

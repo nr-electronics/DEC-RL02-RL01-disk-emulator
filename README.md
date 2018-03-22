@@ -3,11 +3,6 @@
 
 **Secure the vintage software and preserve it on new technology**                                                                 
 
-**Aim of this project:**                                                                                                                                                                                                   
-Being able to use the RL02/RL01 Emulator on all DEC vintage computer platforms.
-
-
-
 
 **Overview:**                                                                                                                 
 Project Start was in 2009. In the initial phase, a PIC processor and shortly afterwards an ARM SBC 
@@ -64,7 +59,7 @@ a NIOS-II CPU is running from the onchip memory using the I/O with the PCB board
 already made many attempts to sync the NIOS CPU with the Cortex-A9 CPU, but so far without success. 
 At least, I have little experience with the ARM DS-5 v5.26.0 Developer and run always into new problems.
 I am running out of time, certain events have changed my life, maybe I am too old :-) 
-Maybe someone wants to complete this project ??
+Maybe someone wants to complete this project ?, please send me an E-Mail.
 
 
 

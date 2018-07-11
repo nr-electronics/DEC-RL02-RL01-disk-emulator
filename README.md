@@ -52,9 +52,9 @@ or direct by: www.2jo.de/pdp11/rlutils/rlutils.zip  ( written/converted to windo
 
 **Done and now available**                                                                                                        
 DE0-Nano-SoC Board Implementation based on  Altera Cyclon V FPGA with ARM Cortex-A9 CPU. The code has 
-now been successfully ported to the SoC environment. 
+been ported successfully to the SoC/HPS environment. 
 More details on https://github.com/pdp11gy/SoC-HPS-based-RL-disk-emulator . It is the ideal 
-board because all the SIMH CPU emulators  are also runable in this environment.
+board because all the SIMH CPU emulators are also runable ! 
 
 
 

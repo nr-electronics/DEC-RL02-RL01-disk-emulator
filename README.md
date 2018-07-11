@@ -50,16 +50,11 @@ RL02 is 11.521 KB and for the RL01 5.761 KB. Another disk format is the disk ima
 is often used for CPU emulators. To convert this data, the necessary programs are available on my homepage
 or direct by: www.2jo.de/pdp11/rlutils/rlutils.zip  ( written/converted to windows by a friend )
 
-**Open issues:**                                                                                                        
-DE0-Nano-SoC Board Implementation: NOT yet runable ! It is the ideal board because it can also be used 
-for other purposes such as PDP-11 and PDP-8 emulators. However, a lot of issues must be new developed. 
-A NIOS II CPU with the existing C-code is very difficult to implement here, so most of all has to be 
-ported to the ARM Cortex-A9 CPU environment. Currently the entire firmware is successfully ported and
-a NIOS-II CPU is running from the onchip memory using the I/O with the PCB board (AUG 2017). I have 
-already made many attempts to sync the NIOS CPU with the Cortex-A9 CPU, but so far without success. 
-At least, I have little experience with the ARM DS-5 v5.26.0 Developer and run always into new problems.
-I am running out of time, certain events have changed my life, maybe I am too old :-) 
-Maybe someone wants to complete this project ?, please send me an E-Mail.
+**Done and now available**                                                                                                        
+DE0-Nano-SoC Board Implementation based on  Altera Cyclon V FPGA with ARM Cortex-A9 CPU. The code has 
+now been successfully ported to the SoC environment. 
+More details on https://github.com/pdp11gy/SoC-HPS-based-RL-disk-emulator . It is the ideal 
+board because all the SIMH CPU emulators  are also runable in this environment.
 
 
 

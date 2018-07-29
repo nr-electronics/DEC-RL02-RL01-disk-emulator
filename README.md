@@ -50,6 +50,10 @@ RL02 is 11.521 KB and for the RL01 5.761 KB. Another disk format is the disk ima
 is often used for CPU emulators. To convert this data, the necessary programs are available on my homepage
 or direct by: www.2jo.de/pdp11/rlutils/rlutils.zip  ( written/converted to windows by a friend )
 
+**Summary**
+This project is no longer being developed by me. The disadvantages are too big: slow NIOSII CPU, no network 
+and slow SD card implementation. The new generation: SoC/HPS based environment.
+
 **Done and now available**                                                                                                        
 DE0-Nano-SoC Board Implementation based on  Altera Cyclon V FPGA with ARM Cortex-A9 CPU. The code has 
 been ported successfully to the SoC/HPS environment. Unfortunately, the DE0 Nano SoC board is no longer 

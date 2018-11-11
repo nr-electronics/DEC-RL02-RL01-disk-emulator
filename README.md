@@ -39,7 +39,8 @@ The up and running projects are based on QUARTUS Version 16.1 :
 After extracting the zip files, the complete development environment for QUARTUS version V16.1 is 
 available. The respective project is available with all the sources and correctly Quartus-setup. 
 The C programs for eclipse-nios2 can be found in the folder software.                                                                                                 
-SD-Card, FAT32 support is provided by : http://elm-chan.org/fsw/ff/00index_e.html + http://www.emb4fun.de/              
+SD-Card, FAT32 support is provided by : http://elm-chan.org/fsw/ff/00index_e.html + http://www.emb4fun.de/ 
+( Please send me an E-Mail if need access to the BeMicro_CV and DE0_Nano based implementation.)           
 
 **Data format:**                                                                                                            
 The DEC RL01/RL02 disk drive did have a capacity of 5.2MB/10.4MB, 2 Heads(surfaces), 256/512 cylinder, 
@@ -54,7 +55,7 @@ or direct by: www.2jo.de/pdp11/rlutils/rlutils.zip  ( written/converted to windo
 This project is no longer being developed by me. The disadvantages are too big: slow NIOSII CPU, no network 
 and slow SD card implementation. The new generation: SoC/HPS based environment.
 
-**Done and now available**                                                                                                        
+**Now available**                                                                                                                 
 DE0-Nano-SoC Board Implementation based on  Altera Cyclon V FPGA with ARM Cortex-A9 CPU. The code has 
 been ported successfully to the SoC/HPS environment. Unfortunately, the DE0 Nano SoC board is no longer 
 available, so everything must be ported to the replacement- on the replacement board DE10-Nano. More 
